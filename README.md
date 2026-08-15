@@ -204,37 +204,17 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 
 ---
 
-# 📊 GitHub Performance
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vipul07345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul07345&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipul07345&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
----
-
-# 📊 GitHub Performance
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Vipul07345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-  height="180"
-  alt="Vipul's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul07345&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
-
 
 ---
 
