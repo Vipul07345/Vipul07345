@@ -216,13 +216,6 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 
 ---
 
----
-
-
-### Put this instead
-
-```html
----
 
 ## 🎯 Current Focus
 
@@ -232,43 +225,38 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 <tr>
 <td align="center" width="16%">
 
-### 🧠
+🧠  
 **AI Engineering**
 
 </td>
-
 <td align="center" width="16%">
 
-### 🤖
+🤖  
 **AI Agents**
 
 </td>
-
 <td align="center" width="16%">
 
-### 🧬
-**RAG**
+🧬  
+**RAG & Vector Search**
 
 </td>
-
 <td align="center" width="16%">
 
-### ⚙️
-**n8n**
+⚙️  
+**n8n Automation**
 
 </td>
-
 <td align="center" width="16%">
 
-### 📞
+📞  
 **Voice AI**
 
 </td>
-
 <td align="center" width="16%">
 
-### 🚀
-**Production**
+🚀  
+**Production Systems**
 
 </td>
 </tr>
@@ -276,65 +264,7 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Learning+AI+Engineering;Building+Intelligent+AI+Agents;Designing+RAG+%26+Vector+Search+Systems;Automating+Business+Workflows+with+n8n;Building+Voice+AI+%26+CRM+Systems;Turning+Ideas+into+Production+Systems" />
-
-</div>
-
----
-
-## ⚡ What I'm Working Toward
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🧠 AI Engineering
-
-LLMs  
-Embeddings  
-RAG  
-Agents  
-Tool Calling
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️ Intelligent Automation
-
-n8n  
-APIs  
-Webhooks  
-CRM  
-Business Workflows
-
-</td>
-
-<td width="33%" align="center">
-
-### 🚀 Production Systems
-
-Scalable Architecture  
-Reliable Workflows  
-Monitoring  
-Integrations  
-Deployment
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-**AI Engineering**  
-↓  
-**AI Agents + RAG**  
-↓  
-**Automation + Integrations**  
-↓  
-**Production-Ready AI Systems**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Engineering+Systems;Developing+AI+Agents;Designing+RAG+%26+Vector+Search;Automating+Business+Workflows;Building+Voice+AI+Systems;Creating+Production-Ready+AI+Solutions" alt="Current Focus Animation" />
 
 </div>
 
