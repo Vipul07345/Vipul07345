@@ -217,16 +217,21 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 ---
 ---
 
-# 🐍 Contribution Snake
+# 📊 GitHub Performance
 
 <div align="center">
 
-<p>
-  <img
-    src="https://raw.githubusercontent.com/Vipul07345/Vipul07345/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Vipul07345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  height="180"
+  alt="Vipul's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul07345&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
 
