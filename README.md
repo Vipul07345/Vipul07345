@@ -218,19 +218,124 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 
 ---
 
-# 🎯 Current Focus
 
-```text
-AI Engineering
-      ↓
-AI Agents
-      ↓
-RAG & Vector Search
-      ↓
-n8n Automation
-      ↓
-Voice AI
-      ↓
-CRM & API Integrations
-      ↓
-Production-Ready AI Systems
+### Put this instead
+
+```html
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+### 🧠
+**AI Engineering**
+
+</td>
+
+<td align="center" width="16%">
+
+### 🤖
+**AI Agents**
+
+</td>
+
+<td align="center" width="16%">
+
+### 🧬
+**RAG**
+
+</td>
+
+<td align="center" width="16%">
+
+### ⚙️
+**n8n**
+
+</td>
+
+<td align="center" width="16%">
+
+### 📞
+**Voice AI**
+
+</td>
+
+<td align="center" width="16%">
+
+### 🚀
+**Production**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Learning+AI+Engineering;Building+Intelligent+AI+Agents;Designing+RAG+%26+Vector+Search+Systems;Automating+Business+Workflows+with+n8n;Building+Voice+AI+%26+CRM+Systems;Turning+Ideas+into+Production+Systems" />
+
+</div>
+
+---
+
+## ⚡ What I'm Working Toward
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🧠 AI Engineering
+
+LLMs  
+Embeddings  
+RAG  
+Agents  
+Tool Calling
+
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Intelligent Automation
+
+n8n  
+APIs  
+Webhooks  
+CRM  
+Business Workflows
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Production Systems
+
+Scalable Architecture  
+Reliable Workflows  
+Monitoring  
+Integrations  
+Deployment
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**AI Engineering**  
+↓  
+**AI Agents + RAG**  
+↓  
+**Automation + Integrations**  
+↓  
+**Production-Ready AI Systems**
+
+</div>
+
+---
