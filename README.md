@@ -206,7 +206,7 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 
 ---
 
-# 📊 GitHub Activity
+# ⚡ GitHub Activity
 
 <div align="center">
 
