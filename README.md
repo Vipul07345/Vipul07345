@@ -215,14 +215,21 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 </div>
 
 ---
+---
 
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vipul07345/Vipul07345/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<p>
+  <img
+    src="https://raw.githubusercontent.com/Vipul07345/Vipul07345/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 </div>
+
 
 ---
 
