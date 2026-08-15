@@ -1,279 +1,244 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=VIPUL%20KEERTHI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20AUTOMATION%20ENGINEER&descAlignY=58&descSize=20&animation=fadeIn&color=gradient" width="100%"/>
+# 👋 Hi, I'm Vipul Keerthi
+
+### 🤖 AI Automation Engineer · AI Agent Developer · n8n Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Automation+Systems;AI+Agents+%7C+RAG+%7C+Voice+AI;Advanced+n8n+Workflow+Automation;CRM+%7C+API+%7C+Webhook+Integrations;Turning+Business+Processes+Into+Automation" alt="Typing Animation" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1200&color=00C8FF&center=true&vCenter=true&width=850&height=55&lines=AI+Automation+Engineer;AI+Agent+Developer;n8n+Automation+Specialist;RAG+%26+Voice+AI+Builder;Production-Ready+AI+Systems" />
-
-<br><br>
-
 <a href="https://vipul-keerthi.lovable.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-00C8FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/vipulkeerthi">
-<img src="https://img.shields.io/badge/LINKEDIN-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="mailto:vipulkeerthi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Vipul07345&style=flat-square&color=00C8FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Vipul07345&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 About Me
 
-# ⚡ Building AI Systems That Automate Real Business Workflows
-
-</div>
-
-<br>
-
-## 👨‍💻 About Me
-
-I'm an **AI Automation Engineer** focused on designing and building intelligent systems that connect AI with real business operations.
+I'm an **AI Automation Engineer** focused on building intelligent systems that connect AI with real business workflows.
 
 I work across:
 
-**AI Agents · n8n · RAG · Voice AI · CRM Automation · APIs · Webhooks**
+- 🤖 AI Agents & AI Assistants
+- 🧠 LLM Applications
+- 📚 RAG & Vector Search
+- ⚙️ n8n Automation
+- 📞 Voice AI Systems
+- 🔗 API & Webhook Integrations
+- 🏢 CRM Automation
+- 🗄️ Databases & Backend Systems
 
-I enjoy turning repetitive manual processes into **intelligent, reliable and scalable automation systems.**
+My goal is simple:
+
+> **Turn repetitive business processes into intelligent, reliable and scalable automation systems.**
 
 ---
 
-## 🧩 What I Build
-
-<div align="center">
+## 🚀 What I Build
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-### 🤖 AI AGENTS
+### 🤖 AI Systems
 
-Intelligent assistants that understand context, use tools and execute business tasks.
-
-</td>
-
-<td align="center" width="50%">
-
-### ⚡ AUTOMATION
-
-Business workflows powered by n8n, APIs, webhooks and CRM systems.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🧠 RAG SYSTEMS
-
-Knowledge-based AI using retrieval, embeddings and vector databases.
+- AI Agents
+- AI Assistants
+- LLM Applications
+- RAG Pipelines
+- Knowledge Bases
+- Vector Search
+- AI-powered Business Workflows
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-### 📞 VOICE AI
+### ⚙️ Automation
 
-Conversational agents for qualification, support and appointment workflows.
+- n8n Workflows
+- CRM Automation
+- Lead Automation
+- Follow-up Systems
+- API Integrations
+- Webhook Systems
+- Business Process Automation
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="50%">
 
-### 🔗 CRM AUTOMATION
+### 📞 Voice AI
 
-Lead management, follow-ups, pipelines and customer workflows.
+- AI Voice Assistants
+- Customer Calling
+- Lead Qualification
+- Appointment Booking
+- Call Automation
+- Conversational AI
 
 </td>
 
-<td align="center">
+<td width="50%">
 
-### 🔌 API INTEGRATIONS
+### 🔗 Integrations
 
-Connecting AI systems with business platforms and external services.
+- GoHighLevel
+- REST APIs
+- Webhooks
+- Google Workspace
+- Telegram
+- Communication APIs
+- Third-party Services
 
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+# 🛠️ Tech Stack
+
+## 🧠 AI & LLM
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Agents-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MCP-7B61FF?style=for-the-badge" />
+</p>
+
+## ⚙️ Automation
+
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/GoHighLevel-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Make-6D4AFF?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
+
+## 📞 Voice & Communication
+
+<p>
+<img src="https://img.shields.io/badge/Vapi-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Retell_AI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+</p>
+
+## 🗄️ Backend & Data
+
+<p>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 🧠 AI / Development
+### 🤖 AI Sales & Follow-up Automation
 
-<img src="https://skillicons.dev/icons?i=python,fastapi" height="60"/>
+AI-powered lead follow-up system designed to continue conversations, qualify leads, handle objections and move qualified prospects toward meetings.
 
-<br><br>
+**Focus:** AI Agents · CRM · Email Automation · n8n
 
-<img src="https://img.shields.io/badge/AI%20Agents-00C8FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge"/>
+</td>
 
-<br><br>
+<td width="50%">
 
-### ⚙️ Automation
+### 🧠 RAG Knowledge Assistant
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoHighLevel-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+Knowledge-based AI assistant capable of retrieving information from structured and unstructured knowledge sources and generating contextual responses.
 
-<br><br>
+**Focus:** RAG · Embeddings · Vector Search · LLMs
 
-### 📞 Voice AI
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/VAPI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Retell%20AI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/>
+<tr>
+<td width="50%">
 
-<br><br>
+### 📞 Voice AI Assistant
 
-### 🗄️ Data / Backend
+Conversational voice automation for customer interactions, qualification and appointment workflows.
 
-<img src="https://skillicons.dev/icons?i=postgres,supabase" height="60"/>
+**Focus:** Vapi · Voice AI · APIs · Automation
 
-<br><br>
+</td>
 
-<img src="https://img.shields.io/badge/Pinecone-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge"/>
+<td width="50%">
 
-</div>
-
----
-
-## 🚀 Featured Systems
-
-<div align="center">
-
-### 📧 AI EMAIL AUTOMATION
-
-AI-powered lead follow-up system that understands conversations and generates contextual responses.
-
-**n8n · AI Agents · Email Automation · CRM**
-
-<br>
-
-### 🧠 RAG KNOWLEDGE ASSISTANT
-
-Retrieval-augmented AI system that searches a knowledge base and produces context-aware responses.
-
-**RAG · Pinecone · Supabase · LLMs**
-
-<br>
-
-### 📞 AI VOICE ASSISTANT
-
-Conversational voice system for customer interaction, qualification and appointment workflows.
-
-**VAPI · Twilio · AI Agents**
-
-<br>
-
-### 🔗 CRM AUTOMATION
+### 🏢 CRM Automation
 
 Automated CRM workflows connecting leads, conversations, pipelines and external services.
 
-**GoHighLevel · n8n · APIs · Webhooks**
+**Focus:** GoHighLevel · n8n · APIs · Webhooks
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Performance
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vipul07345&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul07345&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Performance
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="48%" />
-<img src="./profile/streak.svg" width="48%" />
-
-<br><br>
-
-<img src="./profile/top-langs.svg" width="48%" />
+<img src="https://raw.githubusercontent.com/Vipul07345/Vipul07345/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-## 🟩 Contribution Activity
+# 🎯 Current Focus
 
-<div align="center">
-
-<img src="./profile/activity.svg" width="100%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="./output/github-snake.svg" width="100%">
-</picture>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| | |
-|---|---|
-| 🤖 AI Engineering | 🧠 AI Agents |
-| 🔎 RAG & Vector Search | ⚡ n8n Automation |
-| 📞 Voice AI | 🔗 CRM Automation |
-| 🔌 API Architecture | 🚀 Production AI Systems |
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Let's Connect
-
-<br>
-
-<a href="https://vipul-keerthi.lovable.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit-00C8FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vipulkeerthi">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-6366F1?style=for-the-badge"/>
-</a>
-
-<a href="mailto:vipulkeerthi@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-Contact-8B5CF6?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-**Building intelligent systems that automate real business workflows.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient" width="100%"/>
+```text
+AI Engineering
+      ↓
+AI Agents
+      ↓
+RAG & Vector Search
+      ↓
+n8n Automation
+      ↓
+Voice AI
+      ↓
+CRM & API Integrations
+      ↓
+Production-Ready AI Systems
