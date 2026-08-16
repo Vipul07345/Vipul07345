@@ -154,6 +154,33 @@ My goal is simple:
 
 ---
 
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vipul07345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipul07345&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vipul07345&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 # 🚀 Featured Projects
 
 <table>
