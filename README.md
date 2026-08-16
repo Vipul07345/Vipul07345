@@ -206,13 +206,11 @@ Automated CRM workflows connecting leads, conversations, pipelines and external 
 
 ---
 
-# ⚡ GitHub Activity
+<h2>🐍 GitHub Contributions</h2>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipul07345&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vipul07345/Vipul07345/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
