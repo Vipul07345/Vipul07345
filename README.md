@@ -158,6 +158,24 @@ My goal is simple:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vipul07345/Vipul07345/main/profile/stats.svg" alt="Vipul Keerthi GitHub Stats" />
+
+</div>
+
+
+## 🧑‍💻 Top Languages
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vipul07345/Vipul07345/main/profile/top-langs.svg" alt="Top Languages" />
+
+</div>
+
+
 # 🚀 Featured Projects
 
 <table>
