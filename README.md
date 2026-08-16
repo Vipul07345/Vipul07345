@@ -158,7 +158,7 @@ My goal is simple:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -167,7 +167,7 @@ My goal is simple:
 </div>
 
 
-## 🧑‍💻 Top Languages
+## 💻 Most Used Languages
 
 <div align="center">
 
